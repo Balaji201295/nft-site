@@ -1,0 +1,17 @@
+export { default as AboutInfo } from "./AboutInfo";
+export { default as CreateNFT } from "./CreateNFT";
+export { default as Explore } from "./Explore";
+export { default as FeatureCollections } from "./FeatureCollections";
+export { default as Footer } from "./Footer";
+export { default as FutureNFT } from "./FutureNFT";
+export { default as Hero } from "./Hero";
+export { default as JoiningUs } from "./JoiningUs";
+export { default as LeaderBoard } from "./LeaderBoard";
+export { default as MobileNFT } from "./MobileNFT";
+export { default as OurPartners } from "./OurPartners";
+export { default as OurTeam } from "./OurTeam";
+export { default as ShareNFT } from "./ShareNFT";
+export { default as SingleArt } from "./SingleArt";
+export { default as Statistics } from "./Statistics";
+export { default as TrendingArt } from "./TrendingArt";
+export { default as UploadNFT } from "./UploadNFT";
